@@ -1,0 +1,6 @@
+ihm.c:49:6:ihm_joystick	24	static
+ihm.c:116:9:ihm_PWR_button	24	static
+ihm.c:162:6:ihm_ROTA_button	24	static
+ihm.c:181:6:ihm_buzzer_ON_OFF	32	static
+ihm.c:199:6:ihm_active_buzzer	24	static
+ihm.c:214:9:ihm_getBatteryLevel	16	static

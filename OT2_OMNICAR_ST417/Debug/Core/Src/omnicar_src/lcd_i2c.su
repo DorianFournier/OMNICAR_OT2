@@ -1,0 +1,9 @@
+lcd_i2c.c:18:6:lcd_i2c_sendCommand	32	static
+lcd_i2c.c:30:6:lcd_i2c_sendData	32	static
+lcd_i2c.c:41:6:lcd_i2c_init	16	static
+lcd_i2c.c:71:6:lcd_i2c_printf	48	static
+lcd_i2c.c:85:6:lcd_i2c_sendCommand_Add	32	static
+lcd_i2c.c:98:6:lcd_i2c_text_placement	8	static
+lcd_i2c.c:117:6:lcd_i2c_power_state	32	static
+lcd_i2c.c:145:6:lcd_i2c_bat0T1_state	32	static
+lcd_i2c.c:159:6:lcd_i2c_bat0T2_state	32	static
