@@ -7,3 +7,4 @@ I am in charge of the software part of this project, with implementation and opt
 
 You can see, just below a picture of the today advancement of this project :
 
+![IMG_5011](https://user-images.githubusercontent.com/54947603/123403380-02e9d400-d5a9-11eb-8b5b-f03dfde55172.png)
